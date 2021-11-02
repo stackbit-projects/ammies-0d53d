@@ -210,7 +210,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Startup Theme
+      value: Ammies
     - name: 'twitter:description'
       value: The preview of the Startup theme
     - name: 'twitter:image'
