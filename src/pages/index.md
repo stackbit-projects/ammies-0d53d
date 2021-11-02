@@ -192,7 +192,7 @@ sections:
     background_image_opacity: 10
 seo:
   title: Ammies
-  description: The preview of the Startup theme
+  description: 簡単に
   extra:
     - name: 'og:type'
       value: website
