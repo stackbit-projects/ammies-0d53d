@@ -201,7 +201,7 @@ seo:
       value: Ammies
       keyName: property
     - name: 'og:description'
-      value: The preview of the Startup theme
+      value: 簡単にかぎ針編みの編み図が作成できるサイトです。面倒な準備や複雑な操作はもう終わりにして、思い立った時に思い立った図を書いていこう
       keyName: property
     - name: 'og:image'
       value: images/ammies-logo@2x.png
