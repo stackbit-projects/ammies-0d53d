@@ -192,7 +192,7 @@ sections:
     background_image_opacity: 10
 seo:
   title: Ammies
-  description: 簡単にかぎ針編みの編み図が作成できるサイトです。面倒な準備や複雑な操作はもう終わりにして、思い立った時に思い立った図を書いていこう
+  description: 簡単にかぎ針編みの編み図が作成できるサイトです。面倒な準備や複雑な操作はもう終わりにして、思い立った時に思い立った図を書いていこう。
   extra:
     - name: 'og:type'
       value: website
